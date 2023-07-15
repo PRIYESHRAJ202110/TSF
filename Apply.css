@@ -1,0 +1,85 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color:grey;
+            color:rgb(61, 61, 187);
+            padding: 20px;
+            text-align: center;
+        }
+        .header-text {
+            color: yellow;
+            display: flex;
+            justify-content: left;
+            align-items: flex-start;
+            text-align: center;
+            bottom: 10px; 
+            left: 10px; 
+            margin: 0;
+          }
+        h1 
+        {
+            margin: 0;
+          }
+        .logo {
+            display:flex;
+            justify-content: center;
+            align-items: flex-start;
+          }
+        .logo img {
+            
+            width: 75px;
+            height: 75px;
+            margin-right: 10px;
+        }
+        .logo h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #555;
+            color: rgb(72, 72, 225);
+            padding: 20px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 20px;
+        }
+        .dropdown-menu {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+          }
+          
+          .dropdown-menu option {
+            padding: 5px;
+            font-size: 16px;
+          }
+        a:hover {
+            background-color: yellow;
+          }
+        
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 50px;
+            text-align: bottom;
+           
+        }
+          
+        footer {
+            background-color: #333;
+            color: rgb(217, 217, 35);
+            padding: 20px;
+            text-align: center;
+        }
+</style>
